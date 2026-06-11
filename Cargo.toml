@@ -1,6 +1,9 @@
 [package]
 name = "ackermann_function"
 version = "0.1.0"
-edition = "2024"
+repository = "https://github.com/casey-digennaro/ackermann_function"
+description = "Rust crate"
+license = "MIT"
+edition = "2021"
 
 [dependencies]
